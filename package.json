@@ -1,0 +1,14 @@
+{
+  "name": "@xofttion/types",
+  "type": "commonjs",
+  "version": "4.9.0",
+  "author": "Daniel Andrés Castillo Pedroza",
+  "license": "MIT",
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xofttion-developers/xofttion-typescript-types.git"
+  }
+}
